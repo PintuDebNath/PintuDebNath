@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PintuDebNath
 - 👀 I’m interested in ...nodejs
 - 🌱 I’m currently learning ... wordpress theme development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...npm
 - 📫 How to reach me ...
 
 <!---
