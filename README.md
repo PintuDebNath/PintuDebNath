@@ -10,7 +10,7 @@ I'm a passionate Full-stack Web Developer with over 3 years of experience, speci
 
 ## 🌱 Currently Learning
 - **Vite JS**
-- **Python**
+- **Flask**
 - Expanding my knowledge in front-end and back-end technologies to stay ahead in the ever-evolving tech landscape.
 
 ## 💞️ Looking to Collaborate On
